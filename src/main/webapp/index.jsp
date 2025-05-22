@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='red'> We the people of india <font></h1>
+<h1><font color='red'> We the people  <font></h1>
 
-<a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
+<a href="www.puune">Click</a>
   
   <h2> Call Us : +91-8003396060 / 9075199602  </h2>
   
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> pune maharshtra </h3>
 
 </body>
 </html>
