@@ -4,7 +4,7 @@
 
 <a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : +91-8003396060  </h2>
+  <h2> Call Us : +91-8003396060 / 9075199602  </h2>
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
 
